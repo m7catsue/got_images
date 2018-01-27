@@ -1,2 +1,2 @@
 # got_images
-GOT Images
+GOT Images for my visualization demo
